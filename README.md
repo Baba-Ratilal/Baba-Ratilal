@@ -1,4 +1,4 @@
-# 💫 Hi, I am Rushab:
+# 💫 Hi, I am Rushab and,
 🔭 I'm currently pursuing my Masters at University of the Pacific<br>👯 I am currently working on a data analytics project using SQL and Python<br>🤝 I’m looking for help with learning DSA in Python<br>🌱 I’m currently learning DSA, Python<br>💬 Ask me about Python, SQL or COD Mobile<br>⚡ Fun fact I love Dogs, Motorcycles and playing COD Mobile
 
 
